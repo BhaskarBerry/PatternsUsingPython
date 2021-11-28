@@ -13,5 +13,7 @@
 	8. Print the Square pattern with fixed alphabet symbol in every column.
 	9. Print the Square pattern with digits in descending order. 
 	10. Print the Square pattern with alphabets in reverse order. 
+Reference:
+https://www.youtube.com/watch?v=By6-uRE_OdQ&list=PL-u2ZiBSnX3Q7HD8D7MYq35AMPTfkZxBn
 
 
