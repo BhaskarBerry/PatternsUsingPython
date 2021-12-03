@@ -13,6 +13,14 @@
 	8. Print the Square pattern with fixed alphabet symbol in every column.
 	9. Print the Square pattern with digits in descending order. 
 	10. Print the Square pattern with alphabets in reverse order. 
+
+### Pyramid Patterns
+	1. Print Pyramid with * symbol.
+	2. Print Pyramid with fixed numerical digit in every row.
+	3. Print Pyramid with fixed alphabet symbol in every row.
+	4. Print Pyramid with digit and alphabet in ascending order.
+	5. Print Pyramid with digit and alphabet in descending order.
+
 Reference:
 https://www.youtube.com/watch?v=By6-uRE_OdQ&list=PL-u2ZiBSnX3Q7HD8D7MYq35AMPTfkZxBn
 
