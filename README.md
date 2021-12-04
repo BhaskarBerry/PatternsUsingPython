@@ -20,6 +20,9 @@
 	3. Print Pyramid with fixed alphabet symbol in every row.
 	4. Print Pyramid with digit and alphabet in ascending order.
 	5. Print Pyramid with digit and alphabet in descending order.
+	6. Print Inverted Pyramid with star symbol, numbers and alphabet in every row.
+	7. Print Inverted Pyramid with digits and alphabet symbol in ascending order.
+	8. Print Inverted Pyramid with digits and alphabet symbol in descending order.
 
 Reference:
 https://www.youtube.com/watch?v=By6-uRE_OdQ&list=PL-u2ZiBSnX3Q7HD8D7MYq35AMPTfkZxBn
