@@ -32,6 +32,10 @@
 	4. Print Inverted Right Angle Triangle with * symbol, fixed numerical and alphabet in every row.
 	5. Print Inverted Right Angle Triangle with numbers & alphabet in ascending and descending order.
 
+### Diamond Patterns
+	1. Print Diamond with * symbol, fixed numerical and alphabet symbol in every row.
+	2. Print Diamond with numbers and alphabets in ascending order.
+
 Reference:
 https://www.youtube.com/watch?v=By6-uRE_OdQ&list=PL-u2ZiBSnX3Q7HD8D7MYq35AMPTfkZxBn
 
