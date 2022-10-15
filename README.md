@@ -37,6 +37,11 @@
 	2. Print Diamond with numbers and alphabets in ascending order.
 	3. Print Diamond with numbers and alphabets in descending order.
 
+### Hollow Diamond Patterns
+	1. Print Hollow Diamond with * symbol
+	2. Print Hollow Diamond with numbers and alphabets in ascending order.
+	3. Print Hollow Diamond with numbers and alphabets in descending order.
+
 Reference:
 https://www.youtube.com/watch?v=By6-uRE_OdQ&list=PL-u2ZiBSnX3Q7HD8D7MYq35AMPTfkZxBn
 
